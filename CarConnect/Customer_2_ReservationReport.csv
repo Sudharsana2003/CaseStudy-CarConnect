@@ -1,0 +1,2 @@
+ReservationID,CustomerID,VehicleID,StartDate,EndDate,TotalCost,Status
+2,2,2,2024-03-13 11:20:00.0,2024-03-15,3000.0,Pending

@@ -1,0 +1,10 @@
+VehicleID,Model,Make,Year,RegistrationNumber,Availability,DailyRate
+2,City,Honda,2021,TN07CD5678,true,1500.0
+4,Scorpio,Mahindra,2023,DL02GH3456,true,1800.0
+6,Nexon,Tata,2021,TS04KL4321,true,1300.0
+7,Verna,Hyundai,2020,RJ05MN8765,true,1400.0
+9,Innova,Toyota,2019,KL07QR3210,true,2000.0
+10,Ertiga,Maruti Suzuki,2023,AP08ST9876,true,1600.0
+11,Sedan,Toyota,2023,ABC-123,true,50.0
+14,Swift,Maruti,2022,TN01ZZ9999,true,850.0
+17,Swift,Maruti,2022,Updated TN01ZZ9999,true,850.0
